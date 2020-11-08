@@ -7,6 +7,7 @@ namespace ProjetoTeste
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Projeto Visual Studio");
+			Console.WriteLine("Projeto Curso C#");
 		}
 	}
 }
